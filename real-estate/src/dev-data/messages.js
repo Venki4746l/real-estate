@@ -1,0 +1,32 @@
+export const messages = [
+  {
+    id: 1,
+    from: "sai teja",
+    to: 3,
+    body: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium aut quod molestiae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, officiis! Fuga deserunt consequuntur iure repellendus expedita consectetur, est sequi quod qui explicabo consequatur tempora?",
+    read: true,
+    emailFrom: "saiteja@gmail.com",
+    phone: +919720843306,
+    title: "Interested in The Apartment for Sale",
+  },
+  {
+    id: 2,
+    from: "Bhavya",
+    to: 3,
+    body: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium aut quod molestiae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, officiis! Fuga deserunt consequuntur iure repellendus expedita consectetur, est sequi quod qui explicabo consequatur tempora?",
+    read: true,
+    emailFrom: "Bhavya@gmail.com",
+    phone: +919720843306,
+    title: "Interested in The House for Sell in Nairobi County",
+  },
+  {
+    id: 3,
+    from: "srivalli",
+    to: 3,
+    body: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium aut quod molestiae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, officiis! Fuga deserunt consequuntur iure repellendus expedita consectetur, est sequi quod qui explicabo consequatur tempora?",
+    read: true,
+    emailFrom: "srivalli@gmail.com",
+    phone: +916720843306,
+    title: "Interested in The House for Sell in Nairobi County",
+  },
+];
